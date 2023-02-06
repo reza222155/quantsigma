@@ -6,5 +6,6 @@ Call class
 ```python
 import meta
 meta_connect=meta.Meta("meta",path)
+```
 
 "path" is metatrader directory path.
