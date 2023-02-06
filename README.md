@@ -3,7 +3,8 @@ Quant Sigma is a developer of financial analysis systems.In this class with name
 
 # Method of use
 Call class
-<import meta>
-<meta_connect=meta.Meta("meta",path)>
+...python
+import meta
+meta_connect=meta.Meta("meta",path)
 
 "path" is metatrader directory path.
