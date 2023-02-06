@@ -3,7 +3,7 @@ Quant Sigma is a developer of financial analysis systems.In this class with name
 
 # Method of use
 Call class
-...python
+'''python
 import meta
 meta_connect=meta.Meta("meta",path)
 
